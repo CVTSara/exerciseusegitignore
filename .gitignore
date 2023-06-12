@@ -2,6 +2,6 @@ node_modules/
 #Mono auto generated files - Ignore all files starting with "z" 
 z*
 #User-specific files - Ignore all files ending in ".env" 
-*.env
+.env
 # Root config folder - Ignore this directory at the root due to leading slash
-/artifacts
+/artifacts/
